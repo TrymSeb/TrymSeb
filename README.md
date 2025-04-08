@@ -1,4 +1,10 @@
-## Hi there 👋
+> [!IMPORTANT]
+> - __[Become a sponsor](https://github.com/sponsors/TrymSeb)__
+
+---
+#### My projects
+
+- ...
 
 <!--
 **TrymSeb/TrymSeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

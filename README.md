@@ -73,7 +73,7 @@ Software engineer living in all unknown places
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TrymSeb&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+### 💭 Dev Quote (add js to swap quotes)
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />

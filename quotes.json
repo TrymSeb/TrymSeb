@@ -1,0 +1,122 @@
+[
+  {
+    "text": "Build boring systems that solve interesting problems.",
+    "category": "engineering"
+  },
+  {
+    "text": "Everything is an experiment.",
+    "category": "mindset"
+  },
+  {
+    "text": "Complexity compounds. Simplicity scales.",
+    "category": "engineering"
+  },
+  {
+    "text": "AI should remove friction, not create it.",
+    "category": "ai"
+  },
+  {
+    "text": "Good tooling feels invisible.",
+    "category": "dx"
+  },
+  {
+    "text": "Unknown places are often the most interesting ones.",
+    "category": "life"
+  },
+  {
+    "text": "Ship it. Then make it great.",
+    "category": "mindset"
+  },
+  {
+    "text": "The best architecture is the one you can rewrite.",
+    "category": "engineering"
+  },
+  {
+    "text": "Automate the boring parts. Focus on the interesting ones.",
+    "category": "automation"
+  },
+  {
+    "text": "Infrastructure should be boring until it isn't.",
+    "category": "infrastructure"
+  },
+  {
+    "text": "Write code that reads like a good conversation.",
+    "category": "engineering"
+  },
+  {
+    "text": "The goal is not to use AI. The goal is to solve problems.",
+    "category": "ai"
+  },
+  {
+    "text": "Every system is a distributed system. Some just don't know it yet.",
+    "category": "distributed"
+  },
+  {
+    "text": "Developer experience is user experience for builders.",
+    "category": "dx"
+  },
+  {
+    "text": "The best abstraction is the one you don't need.",
+    "category": "engineering"
+  },
+  {
+    "text": "Start with the problem. The solution will follow.",
+    "category": "mindset"
+  },
+  {
+    "text": "Code is communication. Optimize for clarity.",
+    "category": "engineering"
+  },
+  {
+    "text": "Build tools that make other developers faster.",
+    "category": "dx"
+  },
+  {
+    "text": "The future of development is local-first.",
+    "category": "ai"
+  },
+  {
+    "text": "Small services. Big outcomes.",
+    "category": "distributed"
+  },
+  {
+    "text": "Unknown places are where the best discoveries happen.",
+    "category": "life"
+  },
+  {
+    "text": "The best API is the one that disappears.",
+    "category": "dx"
+  },
+  {
+    "text": "Simplicity is the ultimate sophistication.",
+    "category": "engineering"
+  },
+  {
+    "text": "Build for the long term. Ship for today.",
+    "category": "mindset"
+  },
+  {
+    "text": "AI is a tool, not a replacement for thinking.",
+    "category": "ai"
+  },
+  {
+    "text": "The best systems are the ones you forget are there.",
+    "category": "infrastructure"
+  },
+  {
+    "text": "Every line of code is a liability. Make it count.",
+    "category": "engineering"
+  },
+  {
+    "text": "Open source is a conversation with the world.",
+    "category": "opensource"
+  },
+  {
+    "text": "Unknown places are where the best code lives.",
+    "category": "life"
+  },
+  {
+    "text": "The best tools teach you how to use them.",
+    "category": "dx"
+  }
+]

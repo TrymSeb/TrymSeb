@@ -1,0 +1,30 @@
+name: Rotate Quote
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'quotes.json'
+
+permissions:
+  contents: write
+
+jobs:
+  generate-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate quote SVG
+        run: node scripts/generate-quote.js
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/quote.svg
+          git diff --staged --quiet || git commit -m "chore: rotate daily quote"
+          git push
